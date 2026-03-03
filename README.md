@@ -56,8 +56,7 @@ To run this project locally, follow these steps:
     npm start
     ```
 
-......................................................................
-
+---
 ## 👨‍💻 Author
 
 **Etwaiz** — [GitHub Profile](https://github.com/Etwaiz)
