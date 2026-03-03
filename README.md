@@ -32,7 +32,6 @@ This project was built using a modern frontend workflow to ensure code quality a
 - **Fully Responsive**: Seamless experience across mobile, tablet, and desktop devices.
 - **Interactive UI**: Smooth mobile menu transitions and hover-triggered animations.
 - **Pixel Perfect**: Precise implementation based on high-fidelity Figma designs.
-- **Performance Focused**: Optimized SVG icons and compressed imagery for fast loading.
 
 ---
 
