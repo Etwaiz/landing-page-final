@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
-A high-performance, responsive landing page for the **Nothing Phone (1)**, developed as part of the Mate Academy frontend curriculum. This project replicates the iconic "dot-matrix" aesthetic and minimalist branding of Nothing.
+A high-performance, pixel-perfect landing page for the **Nothing Phone (1)**, developed as part of the Mate Academy curriculum. This project replicates the iconic "dot-matrix" aesthetic and minimalist branding while ensuring a seamless user experience across all devices. Built with a modular SCSS structure following BEM methodology, it features advanced CSS techniques like Grid/Flexbox layouts, interactive mobile navigation with scroll locking, and smooth hover animations.
 
 ## 🚀 Live Demo
 
@@ -57,6 +57,7 @@ To run this project locally, follow these steps:
     ```
 
 ---
+
 ## 👨‍💻 Author
 
 **Etwaiz** — [GitHub Profile](https://github.com/Etwaiz)
